@@ -3,3 +3,4 @@ Repository for Whooping Crane stopover habitat modeling and assessment project b
 
 ## Contents
 
+arcpy-CalculateGPSBearings.py 
