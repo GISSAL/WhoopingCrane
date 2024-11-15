@@ -4,3 +4,7 @@ Repository for Whooping Crane stopover habitat modeling and assessment project b
 ## Contents
 
 arcpy-CalculateGPSBearings.py 
+
+## arcpy-CalculateGPSBearings.py
+
+Python script formatted as an ArcGIS Pro script-based tool that calculates bearings (in degrees) to summer and winter migration destinations.  Bearing data can be used as an explanatory variable in Whooping Crane habitat selection models.
